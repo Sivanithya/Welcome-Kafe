@@ -1,0 +1,113 @@
+.one
+{
+    color:black;
+    background-color:#FFA07A;
+    height: 30px;
+    padding: 12px;
+    position: sticky;
+    top: 0;
+    margin:0px;
+    z-index: 1000;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000; 
+    background-color: #fff; 
+    height: 60px; 
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+  }
+  
+ul,li,h1{
+    display:inline;
+}
+ul{
+    margin-left: 50%;
+    cursor:text-decoration: none;
+    color:inherit
+}
+li:hover{
+color:white;
+background-color: black;
+
+}
+
+*
+{
+    margin: 0px;
+}
+
+.two
+{
+   font-family:'Times New Roman', Times, serif;
+   margin:20px;
+   padding:30px;
+   padding-top:20px;
+   display: inline;
+}
+.three
+{
+    height:150px;
+    width:150px;
+    margin-top:70px;
+    padding-left: 20px;
+
+}
+input{
+    padding-top: 10px;
+    width: 30%;
+}
+.cofees
+{
+    text-align: center;
+    background-color: #fff;
+    padding-left: 80px;
+}
+.box
+{
+    border-color:default;
+    border-width: 0px;
+    border-style: solid;
+    
+   
+    display: inline-block;
+    width: 250px;
+    padding: 30px;
+    height: 250px;
+    width:250px;
+    background-color: antiquewhite;
+    font-style: italic;
+
+}
+img{
+    height:250px;
+    width:250px;
+   
+}
+img:hover{
+    transform: scale(1.1);
+}
+
+.button
+{
+    color: green;
+}
+
+.partners
+{
+    display:flex;
+    padding: 40px;
+    padding-left: 60px;
+
+
+   
+}
+.down{
+    background-color: black;
+    color: white;
+}
+.down{
+    display:flex;
+    padding:40px;
+}
